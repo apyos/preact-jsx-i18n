@@ -27,6 +27,9 @@
 		"Philippe Schommers <philippe@schommers.be>"
 	],
 	"license": "MIT",
+	"files": [
+		"dist"
+	],
 	"husky": {
 		"hooks": {
 			"pre-commit": "lint-staged"
