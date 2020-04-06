@@ -1,6 +1,6 @@
 {
 	"name": "preact-jsx-i18n",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Localization for Preact using JSX components",
 	"source": "src/index.js",
 	"main": "dist/preact-jsx-i18n.js",
